@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/behance.svg" />][behance]
-[<img align="left" alt="Gmail" width="22px" src="https://www.iconfinder.com/icons/7115264/download/svg/4096"  />][gmail]
+[<img align="left" alt="Gmail" width="25px" src="https://www.iconfinder.com/icons/7115264/download/svg/4096"  />][gmail]
 
 
 [facebook]: https://www.facebook.com/ihk.786
