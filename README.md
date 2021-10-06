@@ -9,7 +9,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />
+[<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />]
