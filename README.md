@@ -14,10 +14,6 @@
 <br/>
 
 ### You may find me in 👇
-
-<br/>
-
-
 [<img align="left" alt="Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Behance" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/behance.svg" />][behance]
 [<img align="left" alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
