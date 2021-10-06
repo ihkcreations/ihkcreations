@@ -12,7 +12,7 @@
 
 ### You can find me here:
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/behance.svg" />][behance]
+[<img align="left" alt="Behance" width="22px" src="https://raw.githubusercontent.com/ihkcreations/icons/5bd4e724e97f31df5342108ebc4cf0c74933078f/behance.svg?token=ASOCNWJH4USBYQAX4SXMA53BLYZYK" />][behance]
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 
 <br/>
