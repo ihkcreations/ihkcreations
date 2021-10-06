@@ -12,8 +12,9 @@
 
 ### You can find me here:
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/ihkcreations/icons/86e6c3c1ea0cadf3ec172911710701c469a8ea61/facebook.svg?token=ASOCNWPA3ZLS6MJLVIMPPT3BLY2L6" />][facebook]
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/ihkcreations/icons/86e6c3c1ea0cadf3ec172911710701c469a8ea61/instagram.svg?token=ASOCNWJFKINAYWNIAZKUY5LBLY224" />][instagram]
 [<img align="left" alt="Behance" width="22px" src="https://raw.githubusercontent.com/ihkcreations/icons/86e6c3c1ea0cadf3ec172911710701c469a8ea61/behance.svg?token=ASOCNWO324PD5UR2TVA4EULBLY2TI" />][behance]
-[<img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/ihkcreations/icons/86e6c3c1ea0cadf3ec172911710701c469a8ea61/gmail.svg?token=ASOCNWLTDGNBGYL7C2IHQHLBLY2OK"/>][gmail]
+
 
 <br/>
 
@@ -24,6 +25,7 @@
 
 
 [facebook]: https://www.facebook.com/ihk.786
+[instagram]: https://www.instagram.com/iftekharhossaink
 [behance]: https://www.behance.net/ihkcreations
-[gmail]: mailto:iftekhar.hk786@outlook.com
+
 
