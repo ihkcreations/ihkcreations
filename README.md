@@ -13,7 +13,7 @@
 
 
 [<img align="left" alt="Facebook" width="25px" src="https://www.iconfinder.com/icons/5296499/download/svg/4096" />][facebook]
-[<img align="left" alt="Behance" width="22px" src="https://www.iconfinder.com/icons/4550865/download/svg/4096" />][behance]
+[<img align="left" alt="Behance" width="25px" src="https://www.iconfinder.com/icons/4550865/download/svg/4096" />][behance]
 [<img align="left" alt="Gmail" width="25px" src="https://www.iconfinder.com/icons/7115264/download/svg/4096"/>][gmail]
 
 
