@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Iftekhar aka [IHK][facebook]
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## You may find me in 👇
+### You may find me in 👇
 
 
 [<img align="left" alt="Facebook" width="25px" src="https://www.iconfinder.com/icons/5296499/download/svg/4096" />][facebook]
