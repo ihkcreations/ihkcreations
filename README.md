@@ -11,9 +11,13 @@
 
 ## You may find me in 👇
 
+img[src*="#color"] {
+   background-color: #EA4335;
+}
+
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/behance.svg" />][behance]
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  />][gmail]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg#color"  />][gmail]
 
 
 [facebook]: https://www.facebook.com/ihk.786
