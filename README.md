@@ -12,7 +12,9 @@
 
 ### You can find me here:
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/ihkcreations/icons/86e6c3c1ea0cadf3ec172911710701c469a8ea61/facebook.svg?token=ASOCNWPA3ZLS6MJLVIMPPT3BLY2L6" />][facebook]
+
 [<img align="left" alt="Behance" width="22px" src="https://raw.githubusercontent.com/ihkcreations/icons/5bd4e724e97f31df5342108ebc4cf0c74933078f/behance.svg?token=ASOCNWJH4USBYQAX4SXMA53BLYZYK" />][behance]
+
 [<img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/ihkcreations/icons/86e6c3c1ea0cadf3ec172911710701c469a8ea61/gmail.svg?token=ASOCNWLTDGNBGYL7C2IHQHLBLY2OK"/>][gmail]
 
 <br/>
