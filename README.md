@@ -9,6 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][website]
+<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />
 
-[website]: https://codeSTACKr.com
