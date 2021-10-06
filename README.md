@@ -9,5 +9,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />]
+[<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/behance.svg" />]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />]
+
+
+[facebook]: https://www.facebook.com/ihk.786
+[behance]: https://www.behance.net/ihkcreations
+[gmail]: mailto:iftekhar.hk786@outlook.com
 
