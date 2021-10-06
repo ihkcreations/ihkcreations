@@ -11,7 +11,7 @@
 
 ## You may find me in 👇
 
-img[src*="#color"] {
+[src*="#color"] {
    background-color: #EA4335;
 }
 
