@@ -11,7 +11,7 @@
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/behance.svg" />][behance]
-[<img align="left" alt="Gmail" style="background-color:#EA4335" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  />][gmail]
+[<img align="left" alt="Gmail" width="22px" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"  />][gmail]
 
 
 [facebook]: https://www.facebook.com/ihk.786
