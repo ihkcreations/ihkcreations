@@ -1,4 +1,4 @@
-### Hi there, I am Iftekhar Hossain Khan - aka [IHK][facebook]🖐
+### Hi there, I am Iftekhar Hossain Khan...🖐
 <br/>
 
 - 🔭 I’m currently working on Android Development
