@@ -1,5 +1,6 @@
 ### Hi there, I am Iftekhar Hossain Khan...🖐
 
+
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning Android App Development, UI Design
 - 👯 I’m looking to collaborate on Open Source Projects and PC Games
@@ -8,6 +9,8 @@
 - 📫 How to reach me: Facebook, Gmail
 - 😄 Pronouns: Iftekhar, IHK
 - ⚡ Fun fact: I am not a nerd
+
+<br/>
 
 ### You may find me in 👇
 
