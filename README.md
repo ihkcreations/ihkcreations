@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Freelancing
 - 💬 Ask me about C, Java
 
-<br/>
+---
 
 ### You can find me here:
 [<img align="left" alt="Facebook" width="25px" src="assets/facebook.svg" />][facebook]
