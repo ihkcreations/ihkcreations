@@ -11,10 +11,10 @@
 <br/>
 
 ### You can find me here:
-[<img align="left" alt="Facebook" width="22px" src="SVGs/facebook.svg" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="SVGs/instagram.svg" />][instagram]
-[<img align="left" alt="Behance" width="22px" src="SVGs/behance.svg" />][behance]
-[<img align="left" alt="Discord" width="22px" src="SVGs/discord.svg" />][discord]
+[<img align="left" alt="Facebook" width="22px" src="assets/facebook.svg" />][facebook]
+[<img align="left" alt="Instagram" width="22px" src="assets/instagram.svg" />][instagram]
+[<img align="left" alt="Behance" width="22px" src="assets/behance.svg" />][behance]
+[<img align="left" alt="Discord" width="22px" src="assets/discord.svg" />][discord]
 
 
 
