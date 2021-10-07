@@ -11,23 +11,26 @@
 <br/>
 
 ### You can find me here:
-[<img align="left" alt="Facebook" width="22px" src="assets/facebook.svg" />][facebook]
-[<img align="left" alt="Instagram" width="22px" src="assets/instagram.svg" />][instagram]
-[<img align="left" alt="Discord" width="22px" src="assets/discord.svg" />][discord]
-[<img align="left" alt="Behance" width="22px" src="assets/behance.svg" />][behance]
-[<img align="left" alt="LinkedIn" width="22px" src="assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Facebook" width="25px" src="assets/facebook.svg" />][facebook]
+[<img align="left" alt="Instagram" width="25px" src="assets/instagram.svg" />][instagram]
+[<img align="left" alt="Discord" width="25px" src="assets/discord.svg" />][discord]
+[<img align="left" alt="Behance" width="25px" src="assets/behance.svg" />][behance]
+[<img align="left" alt="LinkedIn" width="25px" src="assets/linkedin.svg" />][linkedin]
 
 
 
 <br/>
 
 ### Languages and Tools:
-<img align="left" width="22px" src="assets/c.png" />
-<img align="left" width="22px" src="assets/java2.png" />
-<img align="left" width="22px" src="assets/javascript.png" />
-<img align="left" width="22px" src="assets/css.png" />
-<img align="left" width="22px" src="assets/html.png" />
-<img align="left" width="22px" src="assets/intellij.png" />
+<img align="left" width="25px" src="assets/c.png" />
+<img align="left" width="25px" src="assets/java2.png" />
+<img align="left" width="25px" src="assets/javascript.png" />
+<img align="left" width="25px" src="assets/css.png" />
+<img align="left" width="25px" src="assets/html.png" />
+<img align="left" width="22px" src="assets/vscode.png" />
+<img align="left" width="25px" src="assets/intellij.png" />
+<img align="left" width="22px" src="assets/mysql.png" />
+<img align="left" width="22px" src="assets/database.png" />
 
 
 [facebook]: https://www.facebook.com/ihk.786
