@@ -29,6 +29,6 @@
 [facebook]: https://www.facebook.com/ihk.786
 [instagram]: https://www.instagram.com/iftekharhossaink
 [behance]: https://www.behance.net/ihkcreations
-[discord]: https://discord.com/
+[discord]: https://discord.com/users/647492745228845118
 
 
