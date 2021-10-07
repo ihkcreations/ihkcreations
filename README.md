@@ -22,8 +22,6 @@
 
 
 ### Languages and Tools:
-<br/>
-
 <img align="left" width="25px" src="assets/c.png" />
 <img align="left" width="25px" src="assets/java2.png" />
 <img align="left" width="25px" src="assets/javascript.png" />
