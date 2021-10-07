@@ -1,5 +1,4 @@
 ## Hi there, I am Iftekhar Hossain Khan...🖐
-
 <br/>
 
 - 🔭 I’m currently working on Android Development
@@ -8,9 +7,10 @@
 - 🤔 I’m looking for help with Freelancing
 - 💬 Ask me about C, Java
 
-<br/>
 
-### You can find me here:
+
+### Find me here:
+<br/>
 [<img align="left" alt="Facebook" width="25px" src="assets/facebook.svg" />][facebook]
 [<img align="left" alt="Instagram" width="25px" src="assets/instagram.svg" />][instagram]
 [<img align="left" alt="Discord" width="25px" src="assets/discord.svg" />][discord]
