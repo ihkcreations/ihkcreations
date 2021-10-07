@@ -29,7 +29,7 @@
 <img align="left" width="25px" src="assets/html.png" />
 <img align="left" width="22px" src="assets/vscode.png" />
 <img align="left" width="25px" src="assets/intellij.png" />
-<img align="left" width="22px" src="assets/mysql.png" />
+<img align="left" width="22px" src="assets/mysql.svg" />
 <img align="left" width="22px" src="assets/database.png" />
 
 
