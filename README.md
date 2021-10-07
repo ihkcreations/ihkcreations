@@ -15,6 +15,7 @@
 [<img align="left" alt="Instagram" width="22px" src="assets/instagram.svg" />][instagram]
 [<img align="left" alt="Discord" width="22px" src="assets/discord.svg" />][discord]
 [<img align="left" alt="Behance" width="22px" src="assets/behance.svg" />][behance]
+[<img align="left" alt="LinkedIn" width="22px" src="assets/linkedin.svg" />][linkedin]
 
 
 
@@ -30,5 +31,6 @@
 [instagram]: https://www.instagram.com/iftekharhossaink
 [behance]: https://www.behance.net/ihkcreations
 [discord]: https://discord.com/users/647492745228845118
+[linkedin]: https://www.linkedin.com/in/ihkcreations/
 
 
