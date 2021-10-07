@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 <img align="left" width="22px" src="assets/c.png" />
-<img align="left" width="22px" src="assets/java.png" />
+<img align="left" width="22px" src="assets/java2.png" />
 <img align="left" width="22px" src="assets/javascript.png" />
 <img align="left" width="22px" src="assets/css.png" />
 <img align="left" width="22px" src="assets/html.png" />
