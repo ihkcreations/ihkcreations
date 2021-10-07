@@ -22,9 +22,12 @@
 <br/>
 
 ### Languages and Tools:
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-
+<img align="left" width="22px" src="assets/c.png" />
+<img align="left" width="22px" src="assets/java.png" />
+<img align="left" width="22px" src="assets/javascript.png" />
+<img align="left" width="22px" src="assets/css.png" />
+<img align="left" width="22px" src="assets/html.png" />
+<img align="left" width="22px" src="assets/intellij.png" />
 
 
 [facebook]: https://www.facebook.com/ihk.786
