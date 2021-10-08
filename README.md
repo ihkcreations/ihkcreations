@@ -30,8 +30,6 @@
 <img align="left" width="25px" src="assets/mysql.svg" />
 <img align="left" width="25px" src="assets/database.png" />
 
-<br/>
-
 
 [facebook]: https://www.facebook.com/ihk.786
 [instagram]: https://www.instagram.com/iftekharhossaink
