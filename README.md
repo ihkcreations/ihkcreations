@@ -7,9 +7,11 @@
 - 🤔 I’m looking for help with Freelancing
 - 💬 Ask me about C, Java
 
+<br/>
 
 
 ### Find me here:
+
 [<img align="left" alt="Facebook" width="25px" src="assets/facebook.svg" />][facebook]
 [<img align="left" alt="Instagram" width="25px" src="assets/instagram.svg" />][instagram]
 [<img align="left" alt="Discord" width="25px" src="assets/discord.svg" />][discord]
@@ -18,8 +20,8 @@
 
 <br/>
 
-
 ### Languages and Tools:
+
 <img align="left" width="25px" src="assets/c.png" />
 <img align="left" width="25px" src="assets/java2.png" />
 <img align="left" width="25px" src="assets/javascript.png" />
@@ -29,6 +31,10 @@
 <img align="left" width="25px" src="assets/intellij.png" />
 <img align="left" width="25px" src="assets/mysql.svg" />
 <img align="left" width="25px" src="assets/database.png" />
+
+
+
+
 
 
 [facebook]: https://www.facebook.com/ihk.786
