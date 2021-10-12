@@ -1,7 +1,6 @@
 ## Hi there, I am Iftekhar Hossain Khan...🖐
 <br/>
 
-- 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning Android App Development, UI Design
 - 👯 I’m looking to collaborate on Open Source Projects, PC Games, Designing
 - 🤔 I’m looking for help with Freelancing
