@@ -30,7 +30,7 @@
 <img align="left" width="25px" src="assets/intellij.png" />
 <img align="left" width="25px" src="assets/mysql.svg" />
 <img align="left" width="25px" src="assets/database.png" />
-
+<img align="left" width="25px" src="assets/androidstudio.ico" />
 
 
 
