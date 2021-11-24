@@ -28,6 +28,7 @@
 <img align="left" width="25px" src="assets/html.png" />
 <img align="left" width="22px" src="assets/vscode.png" />
 <br/>
+<br/>
 <img align="left" width="26px" src="assets/androidstudio.ico" />
 <img align="left" width="25px" src="assets/intellij.png" />
 <img align="left" width="25px" src="assets/firebase.png" />
