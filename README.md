@@ -29,7 +29,6 @@
 <img align="left" width="25px" src="assets/vscode.png" />
 <img align="left" width="25px" src="assets/androidstudio.ico" />
 <br/>
-<br/>
 <img align="left" width="25px" src="assets/intellij.png" />
 <img align="left" width="25px" src="assets/firebase.png" />
 <img align="left" width="25px" src="assets/mysql.svg" />
