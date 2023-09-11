@@ -20,11 +20,9 @@
 <br/>
 
 ### Programming Languages:
-
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,dart,html,css)](ihkcreations)
 
 <br/>
-
 ### Tools/Softwares:
 [![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode)](ihkcreations)
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,ae,blender)](ihkcreations)
