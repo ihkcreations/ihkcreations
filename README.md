@@ -19,10 +19,10 @@
 
 <br/>
 
-### Programming Languages:
+## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,dart,html,css&theme=light)](https://ihkcreations.github.io/testHTML/)
 
-### Tools/Softwares:
+## Tools/Softwares:
 [![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode,mysql,git,ps,ai,pr,ae,blender)](ihkcreations)
 
 <br/>
