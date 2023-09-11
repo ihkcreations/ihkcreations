@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,dart,html,css&theme=light)](https://ihkcreations.github.io/testHTML/)
 
 ### Tools/Softwares:
-[![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode,ps,ai,pr,ae,blender&perline=5)](ihkcreations)
+[![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode,mysql,git,ps,ai,pr,ae,blender)](ihkcreations)
 
 <br/>
 <p align="left">
