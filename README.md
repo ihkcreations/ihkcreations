@@ -23,6 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,dart,html,css&theme=light)](https://ihkcreations.github.io/testHTML/)
 
 ## Tools/Softwares:
+[<img align="left" alt="Facebook" width="" src="assets/android_studio" />]
 [![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode,mysql,git,ps,ai,pr,ae,blender)](https://ihkcreations.github.io/testHTML/)
 
 <br/>
