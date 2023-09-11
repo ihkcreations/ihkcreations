@@ -14,6 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=discord)][discord]
 [![My Skills](https://skillicons.dev/icons?i=linkedin)][linkedin]
 [<img alt="Behance" width="50px" src="assets/behance.png"/>][behance]
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)][stackoverflow]
 
 ## Programming Languages:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,dart,html,css&theme=light)](https://ihkcreations.github.io/testHTML/)
@@ -31,5 +32,6 @@
 [behance]: https://www.behance.net/ihkcreations
 [discord]: https://discord.com/users/647492745228845118
 [linkedin]: https://www.linkedin.com/in/ihkcreations/
+[stackoverflow]: https://stackoverflow.com/users/22533372/cpwalker
 
 
