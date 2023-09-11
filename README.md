@@ -19,21 +19,16 @@
 
 <br/>
 
-### Languages and Tools:
+### Programming Languages:
 
-<img align="left" width="25px" src="assets/c.png" />
-<img align="left" width="20px" src="assets/cpp.png" />
-<img align="left" width="25px" src="assets/java2.png" />
-<img align="left" width="25px" src="assets/css.png" />
-<img align="left" width="25px" src="assets/html.png" />
-<img align="left" width="25px" src="assets/vscode.png" />
-<img align="left" width="25px" src="assets/androidstudio.ico" />
-<img align="left" width="25px" src="assets/intellij.png" />
-<img align="left" width="25px" src="assets/firebase.png" />
-<img align="left" width="25px" src="assets/mysql.svg" />
-<img align="left" width="25px" src="assets/database.png" />
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,dart,html,css)](ihkcreations)
 
 <br/>
+
+### Tools/Softwares:
+[![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode)](ihkcreations)
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,ae,blender)](ihkcreations)
+
 <br/>
 <p align="left">
    <img width="100%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ihkcreations&theme=radical"/>
