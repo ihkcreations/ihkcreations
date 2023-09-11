@@ -31,7 +31,7 @@
 
 <br/>
 <p align="left">
-   <img width="100%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=ihkcreations&theme=radical"/>
+   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ihkcreations&theme=radical"/>
 </p>
 
 
