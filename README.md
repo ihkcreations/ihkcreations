@@ -24,7 +24,7 @@
 
 ## Tools/Softwares:
 <img alt="Android Studio" width="45px" src="assets/android_studio.png" />
-[![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode,mysql,git,ps,ai,pr,ae,blender)](https://ihkcreations.github.io/testHTML/)
+[![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode,mysql,git,ps,ai,pr,ae,blender)]
 
 <br/>
 <p align="left">
