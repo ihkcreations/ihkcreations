@@ -12,8 +12,8 @@
 ### Find me here:
 
 [![My Skills](https://skillicons.dev/icons?i=discord)][discord]
-[![My Skills](https://skillicons.dev/icons?i=discord)][linkedin]
-[<img align="left" alt="Behance" width="45px" src="assets/behance.png"/>][behance]
+[![My Skills](https://skillicons.dev/icons?i=linkedin)][linkedin]
+[<img alt="Behance" width="45px" src="assets/behance.png"/>][behance]
 
 <br/>
 
