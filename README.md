@@ -20,11 +20,10 @@
 <br/>
 
 ### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,dart,html,css&theme=light)](ihkcreations)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,dart,html,css&theme=light)](https://ihkcreations.github.io/testHTML/)
 
 ### Tools/Softwares:
-[![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode)](ihkcreations)
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,ae,blender)](ihkcreations)
+[![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode,ps,ai,pr,ae,blender&perline=4)](ihkcreations)
 
 <br/>
 <p align="left">
