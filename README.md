@@ -26,6 +26,7 @@
 <p align="left">
    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ihkcreations&theme=radical"/>
 </p>
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
 
 
