@@ -23,7 +23,7 @@
 <img alt="Android Studio" width="50px" src="assets/android_studio_black2.png" /> [![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode,mysql,git,ps,ai,pr,ae,blender)](https://ihkcreations.github.io/testHTML/)
 
 <br/>
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=ihkcreations&show_icons=true&hide_border=true&theme=radical" width="100%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihkcreations)]
 <p align="left">
    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ihkcreations&theme=radical"/>
 </p>
