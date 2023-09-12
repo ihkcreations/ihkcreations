@@ -22,10 +22,12 @@
 ## Tools/Softwares:
 <img alt="Android Studio" width="50px" src="assets/android_studio_black2.png" /> [![My Skills](https://skillicons.dev/icons?i=firebase,flutter,idea,vscode,mysql,git,ps,ai,pr,ae,blender)](https://ihkcreations.github.io/testHTML/)
 
-<br/>
-<p align="left">
-   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ihkcreations&theme=radical"/>
-</p>
+## Git Stats:
+[![Top Langs](https://github-readme-stats-ihkcreations.vercel.app//api/top-langs/?username=ihkcreations&theme=radical)](https://ihkcreations.github.io/testHTML/)
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ihkcreations&theme=radical"/>
+
+
 
 
 
