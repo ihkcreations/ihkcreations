@@ -2,13 +2,14 @@
 ## Hi there, I am Iftekhar Hossain Khan...🖐
 <br/>
 
-- 🌱 I’m currently learning Android App Development, UI Design
-- 👯 I’m looking to collaborate on Open Source Projects, PC Games, Designing
-- 🤔 I’m looking for help with Freelancing
+I'm Iftekhar. I'm an Software Developer, a Programmer and a Graphic Designer. Right now, I am developing my programming skills but mostly I do designing. Looking ahead to work in a IT/Software company as a Software Engineer after completing my graduation.
 
+
+- 🌱 I’m currently learning Python, Javascript.
+- 👯 I’m looking to collaborate on Open Source Projects, PC Games, Designing.
+- 🤔 I’m now practicing on developing desktop apps, android apps and database integrated apps.
 
 <br/>
-
 
 ## Find me here:
 
