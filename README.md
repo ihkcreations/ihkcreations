@@ -1,4 +1,4 @@
-[<img alt="Cover" width="100%" src="assets/cover/CoverPhoto2023Github.jpg"/>](https://ihkcreations.github.io/testHTML/)
+[<img alt="Cover" width="100%" src="assets/cover/CoverPhoto2023Github2.jpg"/>](https://ihkcreations.github.io/testHTML/)
 ## Hi there, I am Iftekhar Hossain Khan...🖐
 <br/>
 
