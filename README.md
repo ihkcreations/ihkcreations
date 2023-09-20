@@ -26,7 +26,7 @@ I'm Iftekhar. I'm an Software Developer, a Programmer and a Graphic Designer. Ri
 
 ## Git Stats:
 [![Top Langs](https://github-readme-stats-ihkcreations.vercel.app//api/top-langs/?username=ihkcreations&theme=radical)](https://ihkcreations.github.io/testHTML/)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihkcreations&label=Profile%20views&color=ca4c0b&style=flat" alt="ihkcreations" /> </p>
 
 
 
