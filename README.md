@@ -2,12 +2,10 @@
 ## Hi there, I am Iftekhar Hossain Khan...🖐
 <br/>
 
-I'm Iftekhar. I'm an Software Developer, a Programmer and a Graphic Designer. Right now, I am developing my programming skills but mostly I do designing.
+I am currently studying Computer Science and Engineering with a major in Data Science at East West University, Bangladesh.
+My areas of expertise and interest include Data Science, Machine Learning, Deep Learning, Generative AI, and App Development.
+In addition, I work as a freelance Graphic Designer in my free time, a field I have been involved in since 2014.
 
-
-- 🌱 I’m currently learning Python, Data Science.
-- 👯 I’m looking to collaborate on Open Source Projects, PC Games, Designing.
-- 🤔 I’m now practicing on developing desktop apps, android apps and database integrated apps.
 
 <br/>
 
