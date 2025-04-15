@@ -1,4 +1,4 @@
-![FB Cover Photo 2025](https://github.com/user-attachments/assets/cf5cb093-132f-4491-b706-388446175fb6)
+![FB Cover Photo 2025](https://github.com/user-attachments/assets/6b46545e-df72-4af6-ba14-a28b23cd3d3f)
 
 ## Hi there, I am Iftekhar Hossain Khan...🖐
 <br/>
