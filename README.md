@@ -1,4 +1,5 @@
-[<img alt="Cover" width="100%" src="assets/cover/CoverPhoto2023Github2.jpg"/>](https://ihkcreations.github.io/testHTML/)
+![FB Cover Photo 2025](https://github.com/user-attachments/assets/a91c1f74-810b-4624-bb3c-592f4622c61c)
+
 ## Hi there, I am Iftekhar Hossain Khan...🖐
 <br/>
 
