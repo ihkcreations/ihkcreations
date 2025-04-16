@@ -16,14 +16,6 @@ In addition, I work as a freelance Graphic Designer in my free time, a field I h
 [<img alt="Behance" width="50px" src="assets/behance.png"/>][behance]
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)][stackoverflow]
 
-## Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,javascript,dart,html,css&theme=light)](https://ihkcreations.github.io/testHTML/)
-
-## Tools/Softwares:
-### Programming:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,flutter,idea,anaconda,vscode,mysql,git)](https://ihkcreations.github.io/testHTML/)
-### Graphics Design/UI UX:
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,ae,figma,blender)](https://ihkcreations.github.io/testHTML/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihkcreations&label=Profile%20views&color=ca4c0b&style=flat" alt="ihkcreations" /> </p>
 
