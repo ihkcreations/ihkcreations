@@ -3,9 +3,10 @@
 ## Hi there, I am Iftekhar Hossain Khan...🖐
 <br/>
 
-I am currently studying Computer Science and Engineering with a major in Data Science at East West University, Bangladesh.
+I have completed my Bachelors Degree in Computer Science and Engineering with a major in Data Science at East West University, Bangladesh.
 My areas of expertise and interest include Data Science, Machine Learning, Deep Learning, Generative AI, and App Development.
 In addition, I work as a freelance Graphic Designer in my free time, a field I have been involved in since 2014.
+Currently I am in the role of UI/UX designer at Shafacode.
 
 
 <br/>
