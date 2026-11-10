@@ -1,5 +1,3 @@
-![Github Cover Photo 2026](https://github.com/user-attachments/assets/beab350b-c89f-4d26-88c6-f4bb50c4514e)
-
 ## Hi there, I am Iftekhar Hossain Khan...🖐
 <br/>
 
